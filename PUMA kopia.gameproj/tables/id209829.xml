@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Route" numRows="2" numCols="2" flags="" tableType="">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Id" type="3" readonly="1">408.000000,108.000000</column>
+        <column id="1" name="Consumable" type="3" readonly="1">20.000000,140.000000</column>
+    </columns>
+</table>
